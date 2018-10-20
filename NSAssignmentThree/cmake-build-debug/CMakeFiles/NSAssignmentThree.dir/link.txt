@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NSAssignmentThree.dir/main.cpp.o CMakeFiles/NSAssignmentThree.dir/3.cpp.o CMakeFiles/NSAssignmentThree.dir/1.cpp.o CMakeFiles/NSAssignmentThree.dir/22.cpp.o  -o NSAssignmentThree 
